@@ -1,0 +1,4 @@
+94d530cf8fb8f1dc96c485d318bf112a  example_files/1914_Rackham.txt
+093402dc785c01274713767fb5962628  example_files/de_Finibus_Bonorum_et_Malorum.txt
+437419f57ac1ea0e1450f6cefb7c2b87  example_files/Fusce_varius.txt
+db89bb5ceab87f9c0fcc2ab36c189c2c  example_files/Lorem_Ipsum.txt
